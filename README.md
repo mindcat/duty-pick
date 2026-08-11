@@ -1,6 +1,6 @@
 # RIT Duty Pick Tool
 
-A streamlined & visual scheduling tool to make Resident Advisor (RA) duty selection clear, fast, and administratable by a *single RC*.
+A streamlined, visual scheduling tool to make Resident Advisor (RA) duty selection clear, fast, and administratable by a *single RC*.
 
 ## Running the Duty Draft
 
@@ -71,6 +71,8 @@ RAs can immediately add their selected duties to their mobile calendars.
 
 ### The Calendar Pane (Right Side)
 
+* **Settings:** ONLY FOR TRAINING COMMITTEE TO CHANGE
+* **Shortcut:** The current [m]onth day [#] keyboard being input.
 * **Undo Last:** Reverts the previous duty selection and returns the turn to the previous RA.
 * **Export CSV:** Downloads the final schedule as a spreadsheet containing the Date, Slot 1 RA, and Slot 2 RA.
 
